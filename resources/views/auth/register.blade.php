@@ -41,8 +41,8 @@
         <input type="email" name="email" id="email" placeholder="email">
       </div>
       <div class="input-block">
-        <label for="Password" class="input-label">{{ __('Password') }}</label>
-        <input type="Password" name="Password" id="Password" placeholder="Password">
+        <label for="password" class="input-label">{{ __('Password') }}</label>
+        <input type="password" name="password" id="password" placeholder="Password">
       </div>
       <div class="input-block">
         <label for="password-confirm" class="input-label">{{ __('Confirm Password') }}</label>

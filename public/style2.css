@@ -5,7 +5,7 @@ body {
 	font-family: "Times New Roman", Times, serif;
 	font-size: 14px;
 	color: #000000;
-	background: #f2e7ca url(images/body.jpg) top center no-repeat;
+	background:rgb(194, 202, 194) url(images/body.jpg) top center no-repeat;
 }
 
 h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; }
@@ -38,7 +38,7 @@ img { margin: 0px; padding: 0px; border: 5px solid #FFFFFF; }
 }
 
 #wrapper {
-	width: 990px;
+	width: 1100px;
 	margin: 0 auto;
 }
 
@@ -186,17 +186,18 @@ img { margin: 0px; padding: 0px; border: 5px solid #FFFFFF; }
 #footer_wrapper {
 	clear: both;
 	width: 100%;
-	background: #92bf19 url(images/footer.jpg) top center no-repeat;
+	background: url(images/5.jpeg) top center no-repeat;
 }
-
 #footer {
-	clear: both;
-	width: 970px;
+	/* clear: both; */
+	width: 100%;
 	padding: 180px 0 10px;
-	margin: 0 auto;
+	/* margin: 0 auto; */
 	color: #fff;
 	text-align: center;
+    background: white url(images/footer.png) bottom center no-repeat;
 }
+
 
 #footer a {
 	font-weight: bold;
