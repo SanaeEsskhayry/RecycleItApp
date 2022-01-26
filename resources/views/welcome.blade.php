@@ -56,7 +56,11 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-6 hidden-xs-down">
                         <div class="topsocial">
+<<<<<<< HEAD
                         <a href="#" ><strong>Dashboard</strong></a>
+=======
+                        <a href="#" ><strong>Dashboard      </strong></a>
+>>>>>>> 119c10727d436555d559841a105726d183f6afd7
 
                         </div><!-- end social -->
                     </div><!-- end col -->

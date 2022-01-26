@@ -5,9 +5,13 @@ body {
 	font-family: "Times New Roman", Times, serif;
 	font-size: 14px;
 	color: #000000;
+<<<<<<< HEAD
 	/* background: #f2e7ca url(images/body.jpg) top center no-repeat; */
 	background:rgb(194, 202, 194) url(images/body.jpg) top center no-repeat;
 
+=======
+	background:rgb(194, 202, 194) url(images/body.jpg) top center no-repeat;
+>>>>>>> 119c10727d436555d559841a105726d183f6afd7
 }
 
 h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; }
@@ -188,10 +192,16 @@ img { margin: 0px; padding: 0px; border: 5px solid #FFFFFF; }
 
 /* #footer_wrapper {
 	clear: both;
+<<<<<<< HEAD
 	width: 970px;
 	
 } */
 
+=======
+	width: 100%;
+	background: url(images/5.jpeg) top center no-repeat;
+}
+>>>>>>> 119c10727d436555d559841a105726d183f6afd7
 #footer {
 	/* clear: both; */
 	width: 100%;
@@ -199,9 +209,14 @@ img { margin: 0px; padding: 0px; border: 5px solid #FFFFFF; }
 	/* margin: 0 auto; */
 	color: #fff;
 	text-align: center;
+<<<<<<< HEAD
 
     background: white url(images/footer1.png) bottom center no-repeat;
+=======
+    background: white url(images/footer.png) bottom center no-repeat;
+>>>>>>> 119c10727d436555d559841a105726d183f6afd7
 }
+
 
 #footer a {
 	font-weight: bold;
